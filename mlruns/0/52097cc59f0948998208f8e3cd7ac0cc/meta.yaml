@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/52097cc59f0948998208f8e3cd7ac0cc/artifacts
+end_time: 1763451818031
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52097cc59f0948998208f8e3cd7ac0cc
+run_name: salty-kit-301
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763451749927
+status: 4
+tags: []
+user_id: Lenovo
